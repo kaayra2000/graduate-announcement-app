@@ -1,7 +1,6 @@
 # Mobile Programming Homework
 
-## Graduate Announcement Application 
-
+## Graduate Announcement Application
 
 # What Did I Use
 * Firebase Auth
@@ -9,6 +8,11 @@
 * Firebase FireStore Database
 * Kotlin
 
+## Yerel Firebase Yapılandırması
+
+Gerçek Firebase yapılandırması repoya eklenmez. Firebase Console'dan indirilen
+`google-services.json` dosyasını yerel olarak `app/` klasörüne kopyalayın.
+Dosya `.gitignore` kapsamında olduğu için commitlere eklenmez.
 
 # Photos
 ## Create Profile Page
@@ -35,5 +39,5 @@
 ## Gallery Page
 ![Uploading image.png…]()
 
-# Application's video is here 
+# Application's video is here
 https://www.youtube.com/watch?v=krNkTsZ1Cq8&t=182s
